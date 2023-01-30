@@ -33,17 +33,7 @@ body {
 }
 
 header {
-  padding: 15px;
-  text-align: center;
-}
-
-.topText {
   padding: 118px 127px 51px 52px;
-}
-
-.length {
-  padding-left: 51px;
-  padding-bottom: 51px;
 }
 
 section {
